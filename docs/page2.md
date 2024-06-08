@@ -1,2 +1,2 @@
 # PAge 2
-## Some haders
+## Some headers
